@@ -10,6 +10,6 @@ find "$folder_path" -name "Dockerfile" \
     
 
 # To run script chmod +x test.sh
-# To execute run ./test.sh
+# To execute  ./test.sh
 # ./advance-shell (path)
 
